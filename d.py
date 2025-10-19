@@ -1,4 +1,4 @@
 a = 3
 b = 2
-print(a)
-print(b)
+print(a,b)
+print("시험 100점 가자!")
